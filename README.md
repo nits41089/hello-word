@@ -1,4 +1,5 @@
 hello-word
 ==========
 
-My first repository on GitHub.
+My first repository on GitHub.<br/>
+My name is Nitin Thakur
